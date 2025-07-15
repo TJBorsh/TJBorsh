@@ -9,7 +9,7 @@
 
 ## 📚 Current Focus
 
-- Completing my B.S. in Data Analytics (26% done, graduation March 2027)
+- Completing my B.S. in Data Analytics (31% done, graduation March 2027)
 - Building real-world projects with public datasets
 - Preparing for a data analytics internship in the next 6 months (November 2025)
 - Learning in public & documenting my progress
