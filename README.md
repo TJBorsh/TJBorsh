@@ -26,11 +26,11 @@
 
 ---
 
-## 📂 Featured Projects *(Coming Soon)*
+## 📂 Featured Projects *(Work in Progress)*
 
 | Project | Description | Skills Used |
 |--------|-------------|-------------|
-| 📊 Sales Dashboard | Interactive dashboard from mock sales data | SQL, Excel |
+| [📊 Sales Dashboard](https://github.com/TJBorsh/coffee-shop-dashboard) | Interactive dashboard from mock sales data | SQL, Excel |
 | 🔍 Customer Retention Analysis | Cohort analysis using public churn dataset | SQL, Data Cleaning |
 | 📈 Startup KPI Tracker | Business insights based on synthetic SaaS data | Excel, Visualization |
 
