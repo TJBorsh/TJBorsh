@@ -3,7 +3,7 @@
 🎓 Data Analytics student at Western Governors University (WGU)  
 🛠 7+ years of experience in project management, client success, and small business operations  
 🚀 Passionate about using data to drive decisions—especially in fast-paced startup environments  
-📈 Currently building a portfolio to showcase my skills in SQL, Excel, and business insights
+📈 Currently building a portfolio to showcase my skills in Pyhton, SQL, Excel, and business insights
 
 ---
 
