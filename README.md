@@ -1,9 +1,9 @@
 ## 👋 Hi, I'm Travis Borsh
 
-🎓 Data Analytics student at Western Governors University (WGU)
-🛠 7+ years of experience in project management, client success, and small business operations
-🚀 Passionate about using data to drive decisions — especially in fast-paced startup environments
-📈 Building a portfolio that bridges analytical thinking with real-world business impact
+🎓 Data Analytics student at Western Governors University (WGU)  
+🛠 7+ years of experience in project management, client success, and small business operations  
+🚀 Passionate about using data to drive decisions — especially in fast-paced startup environments  
+📈 Building a portfolio that bridges analytical thinking with real-world business impact  
 
 ---
 
