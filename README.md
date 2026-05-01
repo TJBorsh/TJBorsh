@@ -9,7 +9,7 @@
 
 ## 📚 Current Focus
 
-- Completing my B.S. in Data Analytics at WGU 44% Complete -*(graduating March 2027)*
+- Completing my B.S. in Data Analytics at WGU 47% Complete -*(graduating January 2027)*
 - Building and shipping real projects — not just tutorials
 - Learning in public and documenting the journey
 - Exploring the intersection of AI, automation, and data-driven products
